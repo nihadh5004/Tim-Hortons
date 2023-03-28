@@ -1,0 +1,477 @@
+*{
+margin: 0%;
+}
+.top-bar{
+    
+    width: 100%;
+    height: 80px;
+    background-color :brown;
+    color: aliceblue;
+    position: fixed;
+    
+}
+.top-leftdiv{
+    width: 30%;
+    padding-left: 39px;
+    float: left;
+}
+.bar-options{
+    font-family: sofia_pro, Helvetica, Arial, sans-serif;
+    font-size: 1.1rem;
+    float: left;
+    
+    padding-left: 19px;
+    padding-top: 30px;
+    font-weight: 300;
+    letter-spacing: 0.4px;
+}
+.logo-div img{
+    width: 178px;
+    height: 59px;
+    float: left;
+    padding-left: 170px;
+    padding-top: 28px;
+}
+.tim-logo{
+    height: 70px;
+    text-align: center;
+    padding-top: 25px;
+    padding-left: 90px;
+    font-weight: bolder;
+    font: italic 1.2em "Fira Sans", serif;
+    font-size: 35px;
+}
+.top-rightdiv{
+    padding-top: 23px;
+    
+    
+}
+.material-symbols-outlined{
+    font-size: 12px;
+}
+.shoppingcart{
+    margin-right: 65px;
+    float: right;
+    border-radius: 22px;
+    padding: 10px ;
+    padding-left: 28px;
+    padding-right: 30px;
+    font-size: 12px;
+   background-color: brown;
+   border: none;
+   cursor: pointer;
+   color: white;
+   
+}
+.shoppingcart:hover{
+    background-color: rgb(62, 62, 62);
+}
+
+.sign-btn{
+   padding: 10px ;
+   padding-left: 25px;
+   padding-right: 25px;
+   font-size: 12px;
+    margin-right: 18px;
+    float: right;
+    background-color: rgb(244, 242, 242);
+    border: none;
+    border-radius: 22px;
+    cursor: pointer;
+    color: brown;
+    font-weight: bolder;
+}
+.sign-btn:hover{
+    background-color: rgb(227, 131, 131);
+}
+
+
+.second-div{
+    width: 100%;
+    height: 603px;
+    background-color: white;
+
+
+}
+.leftcaption-div{
+    float :left ;
+    width: 54%;
+    padding-top: 10px;
+}
+.head1{
+    font-size: 54px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    margin-top: 180px;
+    margin-left: 287px;
+    
+}
+.head2{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 290px;
+    margin-top: 18px;
+    font-size: 18px;
+    
+}
+.play-btn{
+ background-color: brown;
+ border: none;
+ border-radius: 40px;
+ padding: 15px;
+ margin-left: 289px;
+ margin-top: 37px;
+ color: white;
+ font-weight: bolder;
+ font-size: 16px;
+ padding-left: 21px;
+ padding-right: 21px;
+ cursor: pointer;
+
+}
+.play-btn:hover{
+    background-color: rgb(125, 23, 23);
+}
+.winimg-div img{
+    float: left;
+    width: 29%;
+    size: 100px;
+    margin-top: 107px;
+}
+.third-div{
+    width: 100%;
+    height: 1276px;
+    background-color: rgb(255 210 241 / 27%);
+    
+}
+
+.upper-div{
+    padding-top: 20px;
+    width: 100%;
+    height: 400px;
+    background-color: none;
+    
+}
+.left-div {
+    width :562px;
+    height: 400px;
+    background-color: rgb(253, 255, 253);
+    border-radius: 10px;
+    margin-left: 196px;
+    float: left;
+    
+    
+}
+.img-div img{
+    width: 100%;
+    height: 75%;
+    border-radius: 10px 10px 0 0;
+}
+.thirddiv-head{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    margin-top: 16px;
+    margin-left: 15px;
+    font-weight: 600;
+}
+.thirddiv-p{
+    font-family:Impact, Haettenschweiler, , sans-serif;
+    
+    font-size: 14px;
+    margin-top: 6px;
+    margin-left: 17px;
+    font-weight: 500;
+}
+.link-tc{
+    color: black;
+    font-size: 10px;
+    font: inherit;
+    
+}
+.order-btn{
+    border-radius: 26px;
+    border: none;
+    background-color: brown;
+    font-size: 18px;
+    padding: 13px;
+    margin-left: 6px;
+    color: white;
+    font-weight: 600;
+    margin-top: 42px;
+    cursor: pointer;
+
+}
+.thirddiv-leftcaption{
+    float: left;
+    width: 71%;
+}
+.thirddiv-btn{
+    float: left;
+    width: 29%;
+    height: 100px;
+}
+    
+
+
+
+
+.right-div{
+    float: left;
+    width :562px;
+    height: 400px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    margin-left: 16px;
+}
+
+.fourth-div{
+    width: 100%;
+    height: 1135px;
+    background-color:white;
+    padding-top: 100px;
+}
+.reward-div{
+
+    width: 80%;
+    height: 175px;
+    background-color: rgba(0, 0, 0, 0.1);;
+    margin-left: 160px;
+    border-radius: 10px
+}
+.rewarddiv-head{
+    font-size: 36px;
+    font-family: sofia_pro, Helvetica, Arial, sans-serif;
+    margin-left: 38px;
+    padding-top: 22px;
+    font-weight: bold;
+    line-height: 2rem;
+    font-stretch: revert;
+}
+.rewarddiv-p{
+    
+    font-size: 17px;
+    margin-left: 41px;
+    padding-top: 21px;
+}
+.learn-moreclass{
+    margin-left: 43px;
+    margin-top: 27px;
+    font-family: sofia_pro, Helvetica, Arial, sans-serif;
+    
+
+}
+.learn-more{
+    color: brown;
+    text-decoration: none;
+}
+.learn-more:hover{
+    text-decoration: underline;
+}
+.point-div{
+    width: 80%;
+    height: 682px;
+    background-color:rgb(63, 32, 33);;
+    margin-left: 160px;
+    border-radius: 20px;
+    margin-top: 200px;
+
+}
+
+.phone-image img{
+    width: 425px; 
+    height: 762px;
+    padding-inline-start: 10px;
+    padding-top: 0px;
+    margin-top: -97px;
+    margin-left: 10px;
+    float: left;
+}.right-point{
+    width: 456px;
+    margin-left: 92px;
+    margin-top: 102px;
+    float: left;
+}
+.rightpoint-head{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    color: white;
+    font-size: 53px;
+
+}
+.rightpoint-p{
+    color: grey;
+    font-size: 15px;
+    padding-top: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.download-img {
+    padding-top: 30px;
+    padding-left: 10px;
+
+}
+.appstore-img{
+    width: 165px;
+    padding-top: 10px;
+    height: 64px;
+    float: left;
+}
+.playstore-img {
+    width: 147px;
+    height: 57px;
+    
+    padding-left: 45px;
+    padding-top: 14px;
+}
+.apple-div{
+    width: 480px;
+    padding-top: 32px;
+    font-size: smaller;
+    margin-left: 0px;
+    color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+
+.fifth-div{
+    background-color: rgba(137, 108, 108, 0.1);
+    width: 100%;
+    height: 626px;
+}
+.fifth1{
+    width: 1300px;
+    height: 180px;
+    background-color: none;
+    margin-left: 62px;
+    color: rgb(60, 51, 39);
+    border-bottom:  1px solid rgb(220, 215, 215);
+}
+.fifth1of1{
+    width: 420px;
+    padding-top: 53px;
+    padding-left: 13px;
+    font-size: 18px; 
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    float: left;
+}
+.fifth1-head{
+    font-weight: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+.fifth1-p1{
+    padding-top: 4px;
+}
+.fifth1-p2{
+   color: rgb(159, 47, 47);
+   text-decoration: none;
+
+}
+.fifth1-p2:hover{
+    text-decoration: underline;
+}
+
+.fifth2{
+    width: 1300px;
+    height: 280px;
+    background-color: none;
+    margin-left: 62px;
+    color: rgb(60, 51, 39);
+    border-bottom:  1px solid rgb(220, 215, 215);
+}
+.fifth2-p1{
+    padding-top: 13px;
+    cursor: pointer;
+}
+.fifth2-p1:hover{
+    text-decoration: underline;
+}
+.social-icon{
+    padding-top: 10px;
+    margin-left: -9px;
+}
+.fa {
+    padding: 10px;
+    font-size: 17px;
+    width: 19px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+    color: rgb(70 65 65);
+}
+
+
+
+.fa:hover{
+    background: rgb(219, 115, 115);
+}
+
+
+.fifth3{
+    width: 1300px;
+    padding-top: 10px;
+    background-color: none;
+    margin-left: 62px;
+    color: rgb(60, 51, 39);
+}
+.fifth3of1{
+    width: 420px;
+    padding-top: 18px;
+    padding-left: 13px;
+    font-size: 18px; 
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    float: left;
+}
+#globe{
+    float: left;
+    font-size: 17px;
+    padding: 2px;
+    cursor: pointer;
+}
+
+.last-div{
+    width: 100%;
+    position: fixed;
+    /* position: absolute; */
+    bottom: 0px;
+    height: 67px;
+    background-color: white;
+    cursor: pointer;
+  
+}
+#map{
+    font-size: 37px;
+    margin-left: 166px;
+    margin-top: 16px;
+    float: left;
+}
+.search-div{
+    width: 1065px;
+    height: 47px;
+    background-color: white;
+    float: left;
+    margin-left: 10px;
+    margin-top: 10px;
+    
+    border-bottom:  2px solid;
+}
+
+
+.search-caption{
+    font-size: 16px;
+    font-weight: 500;
+    font-family: sofia_pro, Helvetica, Arial, sans-serif;
+    padding-top: 5px;
+}
+#arrow{
+    margin-top: -26px;
+    font-size: 29px;
+    float: right;
+    margin-right: -7px;
+    font-weight: 300
+}
+#bottom-btn{
+    margin-top: 17px;
+    margin-right: 150px;
+   
+}
